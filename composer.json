@@ -1,0 +1,19 @@
+{
+    "name": "powalekm/php",
+    "description": "PHP application for tracking expenses",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michal Powalek",
+            "email": "michal.powalek.programista@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+
+        }
+    }
+}
