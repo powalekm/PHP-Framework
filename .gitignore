@@ -4,3 +4,4 @@ composer.phar
 .env
 # ignore ALL files in ANY directory named temp
 /vendor/
+storage/uploads*
